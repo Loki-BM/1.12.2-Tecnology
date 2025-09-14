@@ -1,0 +1,16 @@
+filename = 'forged-carpet-1.12.2-1.3.2.jar'
+name = 'Forged Carpet'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bc780335d7f4c6eab0ceebf08fcaf167b44ebcf0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3186389
+project-id = 315944

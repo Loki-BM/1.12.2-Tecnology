@@ -1,0 +1,16 @@
+filename = 'FallingTree-1.12.2-2.4.0.jar'
+name = 'FallingTree'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '20a91b4a9ca6b6ea4483d8044f9f4798f43c5232'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3064035
+project-id = 349559

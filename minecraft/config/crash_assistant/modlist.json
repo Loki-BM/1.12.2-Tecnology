@@ -1,0 +1,207 @@
+{
+  "forge-1.12.2-14.23.5.2859-universal.jar (modloader)": {
+    "jarName": "forge-1.12.2-14.23.5.2859-universal.jar (modloader)",
+    "modId": "forge",
+    "version": "forge-1.12.2-14.23.5.2859-universal.jar"
+  },
+  "!!!CrashAssistant-forge-1.12.2-1.9.15.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.9.15.jar",
+    "modId": "crash_assistant",
+    "version": "1.9.15"
+  },
+  "[1.12.2] SecurityCraft v1.10.jar": {
+    "jarName": "[1.12.2] SecurityCraft v1.10.jar",
+    "modId": "securitycraft",
+    "version": "v1.10"
+  },
+  "AppleSkin-mc1.12-1.0.14.jar": {
+    "jarName": "AppleSkin-mc1.12-1.0.14.jar",
+    "modId": "appleskin",
+    "version": "1.0.14"
+  },
+  "Baubles-1.12-1.5.2.jar": {
+    "jarName": "Baubles-1.12-1.5.2.jar",
+    "modId": "baubles",
+    "version": "1.12-1.5.2"
+  },
+  "BetterAdvancements-1.12.2-0.1.0.77.jar": {
+    "jarName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+    "modId": "betteradvancements",
+    "version": "0.1.0"
+  },
+  "betterbiomeblend-1.12.2-1.1.7-forge.jar": {
+    "jarName": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
+    "modId": "betterbiomeblend",
+    "version": "1.12.2-1.1.7-forge"
+  },
+  "bettercaves-1.12.2-2.0.4.jar": {
+    "jarName": "bettercaves-1.12.2-2.0.4.jar",
+    "modId": "bettercaves",
+    "version": "1.12.2-2.0.4"
+  },
+  "BetterMineshaftsForge-1.12.2-2.2.1.jar": {
+    "jarName": "BetterMineshaftsForge-1.12.2-2.2.1.jar",
+    "modId": "bettermineshafts",
+    "version": "1.12.2-2.2.1"
+  },
+  "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar": {
+    "jarName": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+    "modId": "biomesoplenty",
+    "version": "7.0.1"
+  },
+  "BrandonsCore-1.12.2-2.4.20.162-universal.jar": {
+    "jarName": "BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+    "modId": "brandonscore",
+    "version": "1.12.2-2.4.20.22"
+  },
+  "carryon-1.12.2-1.12.7.23.jar": {
+    "jarName": "carryon-1.12.2-1.12.7.23.jar",
+    "modId": "carryon",
+    "version": "1.12.3"
+  },
+  "Clumps-3.1.2.jar": {
+    "jarName": "Clumps-3.1.2.jar",
+    "modId": "clumps",
+    "version": "3.1.2"
+  },
+  "CodeChickenLib-1.12.2-3.2.3.358-universal.jar": {
+    "jarName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+    "modId": "codechickenlib",
+    "version": "3.2.3.358"
+  },
+  "Controlling-3.0.12.4.jar": {
+    "jarName": "Controlling-3.0.12.4.jar",
+    "modId": "controlling",
+    "version": "3.0.12.4"
+  },
+  "corpse-1.12.2-1.0.8.jar": {
+    "jarName": "corpse-1.12.2-1.0.8.jar",
+    "modId": "corpse",
+    "version": "1.12.2-1.0.8"
+  },
+  "CTM-MC1.12.2-1.0.2.31.jar": {
+    "jarName": "CTM-MC1.12.2-1.0.2.31.jar",
+    "modId": "ctm",
+    "version": "MC1.12.2-1.0.2.31"
+  },
+  "Draconic-Additions-1.12.2-1.17.0.45-universal.jar": {
+    "jarName": "Draconic-Additions-1.12.2-1.17.0.45-universal.jar",
+    "modId": "draconicadditions",
+    "version": "1.12.2-1.17.0.45"
+  },
+  "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar": {
+    "jarName": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+    "modId": "draconicevolution",
+    "version": "1.12.2-2.3.28.193"
+  },
+  "EnchantmentDescriptions-1.12.2-1.1.20.jar": {
+    "jarName": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
+    "modId": "enchdesc",
+    "version": "1.1.20"
+  },
+  "FallingTree-1.12.2-2.4.0.jar": {
+    "jarName": "FallingTree-1.12.2-2.4.0.jar",
+    "modId": "falling_tree",
+    "version": "2.4.0"
+  },
+  "FastLeafDecay-v14.jar": {
+    "jarName": "FastLeafDecay-v14.jar",
+    "modId": "fastleafdecay",
+    "version": "v14"
+  },
+  "FastWorkbench-1.12.2-1.7.4.jar": {
+    "jarName": "FastWorkbench-1.12.2-1.7.4.jar",
+    "modId": "fastbench",
+    "version": "1.12.2-1.7.4"
+  },
+  "forged-carpet-1.12.2-1.3.2.jar": {
+    "jarName": "forged-carpet-1.12.2-1.3.2.jar",
+    "modId": "forgedcarpet",
+    "version": "1.3.2"
+  },
+  "ForgivingVoid_1.12.2-1.1.0.jar": {
+    "jarName": "ForgivingVoid_1.12.2-1.1.0.jar",
+    "modId": "forgivingvoid",
+    "version": "1.1.0"
+  },
+  "fusion-1.2.11-forge-mc1.12.jar": {
+    "jarName": "fusion-1.2.11-forge-mc1.12.jar",
+    "modId": "fusion",
+    "version": "1.2.11"
+  },
+  "jei_1.12.2-4.16.1.1013.jar": {
+    "jarName": "jei_1.12.2-4.16.1.1013.jar",
+    "modId": "jei",
+    "version": "4.16.1.1013"
+  },
+  "Mekanism-1.12.2-9.8.3.390.jar": {
+    "jarName": "Mekanism-1.12.2-9.8.3.390.jar",
+    "modId": "mekanism",
+    "version": "1.12.2-9.8.3.390"
+  },
+  "MekanismGenerators-1.12.2-9.8.3.390.jar": {
+    "jarName": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+    "modId": "mekanismgenerators",
+    "version": "1.12.2-9.8.3.390"
+  },
+  "MekanismTools-1.12.2-9.8.3.390.jar": {
+    "jarName": "MekanismTools-1.12.2-9.8.3.390.jar",
+    "modId": "mekanismtools",
+    "version": "1.12.2-9.8.3.390"
+  },
+  "NaturesCompass-1.12.2-1.8.5.jar": {
+    "jarName": "NaturesCompass-1.12.2-1.8.5.jar",
+    "modId": "naturescompass",
+    "version": "1.12.2-1.8.5"
+  },
+  "Patchouli-1.0-23.6.jar": {
+    "jarName": "Patchouli-1.0-23.6.jar",
+    "modId": "patchouli",
+    "version": "1.0-23.6"
+  },
+  "Placebo-1.12.2-1.6.1.jar": {
+    "jarName": "Placebo-1.12.2-1.6.1.jar",
+    "modId": "placebo",
+    "version": "1.12.2-1.6.1"
+  },
+  "ProjectE-1.12.2-PE1.4.1.jar": {
+    "jarName": "ProjectE-1.12.2-PE1.4.1.jar",
+    "modId": "projecte",
+    "version": "1.12.2-PE1.4.1"
+  },
+  "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar": {
+    "jarName": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+    "modId": "projectintelligence",
+    "version": "1.12.2-1.0.9.28"
+  },
+  "RedstoneFlux-1.12-2.1.1.1-universal.jar": {
+    "jarName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "modId": "redstoneflux",
+    "version": "2.1.1.1"
+  },
+  "twilightforest-1.12.2-3.11.1021-universal.jar": {
+    "jarName": "twilightforest-1.12.2-3.11.1021-universal.jar",
+    "modId": "twilightforest",
+    "version": "3.11.1021"
+  },
+  "voicechat-forge-1.12.2-2.6.3.jar": {
+    "jarName": "voicechat-forge-1.12.2-2.6.3.jar",
+    "modId": "voicechat",
+    "version": "1.12.2-2.6.3"
+  },
+  "Waystones_1.12.2-4.1.0.jar": {
+    "jarName": "Waystones_1.12.2-4.1.0.jar",
+    "modId": "waystones",
+    "version": "4.1.0"
+  },
+  "Xaeros_Minimap_25.2.10_Forge_1.12.jar": {
+    "jarName": "Xaeros_Minimap_25.2.10_Forge_1.12.jar",
+    "modId": "xaerominimap",
+    "version": "25.2.10"
+  },
+  "XaerosWorldMap_1.39.12_Forge_1.12.jar": {
+    "jarName": "XaerosWorldMap_1.39.12_Forge_1.12.jar",
+    "modId": "xaeroworldmap",
+    "version": "1.39.12"
+  }
+}
